@@ -35,7 +35,7 @@ This project is a simple web-based calculator built using PHP for the backend lo
    Ensure your web server (e.g., Apache) is running.
    
 7. **Navigate to the project directory:**
-   Open your web browser and go to http://localhost/calculator-project (or the appropriate URL based on your server setup).
+   Open your web browser and go to the appropriate URL based on your server setup.
 
 ## Usage
 
