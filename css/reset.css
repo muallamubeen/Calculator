@@ -1,0 +1,57 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body {
+    color: white;
+    display: block;
+    background-color: rgb(41, 40, 40);
+}
+ 
+input {
+   background-color: rgb(80, 79, 79);
+   font-size: large;
+   text-align: center;
+   justify-content: center;
+   margin-left: 60px;
+}
+
+#secondNum {
+    margin-left: 13px;
+}
+
+#operate, #secondNum {
+    display: inline;
+}
+
+select {
+    background-color: rgb(78, 78, 78);
+    font-size: 20px;
+    color: whitesmoke;
+    margin: 10px auto;
+}
+   
+button {
+    display: block;
+    background-color: rgb(78, 78, 78);
+    color: aliceblue;
+    border: 0;
+    font-size: 16px;
+    padding: 5px 30px;
+    margin: 15px 5px;
+}
+
+.calc-results {
+    background-color: rgb(78, 78, 78);
+    padding: 5px 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    margin-left: 100px;
+    font-family: none;
+    font-size: 20px;
+    color: wheat;
+}
