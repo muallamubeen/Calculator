@@ -21,12 +21,12 @@ This project is a simple web-based calculator built using PHP for the backend lo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/calculator-project.git
+   git clone https://github.com/muallamubeen/Calculator.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd calculator-project
+   cd Calculator
    
 3. **Deploy the project on your web server:**
    If you're using XAMPP, move the project directory to the htdocs folder inside your XAMPP installation directory.
