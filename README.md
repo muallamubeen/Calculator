@@ -41,8 +41,7 @@ This project is a simple web-based calculator built using PHP for the backend lo
 
 - Open the calculator in your web browser.
 - Enter numbers and choose an operation (addition, subtraction, - multiplication, division).
-- Click the "=" button to see the result.
-- Click the "C" button to clear the input.
+- Click the "Result" button to see the result.
 
 ## File Details
 
